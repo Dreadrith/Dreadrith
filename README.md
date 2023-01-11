@@ -2,7 +2,7 @@
     <a href="https://ko-fi.com/dreadrith">
       <img alt="GitHub" src="https://github.com/JustSleightly/Resources/blob/main/Icons/Ko-fi.png" width="60" height="60"/>
     </a>
-     <a href="https://dreadrith.sleightly.dev/discord">
+     <a href="https://dreadrith.com/discord">
       <img alt="Discord" src="https://github.com/JustSleightly/Resources/raw/main/Icons/Discord.png" width="60" height="60"/>
     </a>
     <a href="https://www.dreadrith.com/">
