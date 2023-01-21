@@ -14,9 +14,6 @@
     <a href="https://dreadrith.sleightly.dev/discord">
       <img alt="Discord" src="https://img.shields.io/discord/750880531293536328"/>
     </a>
-    <a href="https://twitter.com/intent/user?screen_name=Dreadrith">
-      <img alt="Twitter" src="https://img.shields.io/twitter/follow/Dreadrith?style=social"/>
-    </a>
   </p>
   
 <p align="center">
